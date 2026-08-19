@@ -12,7 +12,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mysterious-Wizard&show_icons=true&theme=onedark&hide_border=true" alt="Manav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterious-Wizard&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mysterious-Wizard&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!---
