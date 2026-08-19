@@ -12,8 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterious-Wizard&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mysterious-Wizard&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://doodlebug.tarinagarwal.in/api/card/trophies?username=Mysterious-Wizard&theme=dracula" alt="Manav's Trophies" />
 </div>
 
 <!---
