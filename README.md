@@ -12,11 +12,7 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mysterious-Wizard&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterious-Wizard&layout=compact&theme=onedark" alt="Top Languages" />
-</div>
-
+[![trophy](https://github-profile-trophy-sigma-one.vercel.app/?username=Mysterious-Wizard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 Mysterious-Wizard/Mysterious-Wizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
